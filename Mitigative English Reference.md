@@ -88,12 +88,12 @@ DONT use "but" (close to buttocks)
 DONT use words that end in SH too near words that end in or contain "IT" (too close to "SHIT" [swear words: bad])
 DONT use words that end in "S" sound. to close or before "IT" sound. (eg: "reference it" too close to "ZIT" [zit: bad])
 and so on.
-DONT use negative language, maximise Positive [The metaphrical glass is ALWAYS half full.]
+DONT use negative language, maximise Positive [The metaphorical glass is ALWAYS half full.]
 DONT use "in", "enter", "connect", etc etc wherever avoidable (have been sexualised [sexualised: bad])
 DONT use words that begin with "ass-" [sexualised: bad]
 DONT use words that have "f+u" in (close too swear word[swear words: bad])
 Continue this thinking, expansively,
-DONT use militant terminology ("targeting", "targeted" etc beyond the word "target")
+DONT use militant terminology ("targeting", "targeted" etc, beyond the word "target")
 **DONT USE and AVOID anything you can deduce that'd probably conflict or compromise the intent of this file.**
 
 
