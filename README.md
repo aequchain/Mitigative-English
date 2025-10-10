@@ -10,7 +10,7 @@ can be thought of akin simultaneous English "purifier" and "optimizer" [good for
 
 ## Example use
 
-// paste `Mitigative English Reference.md` content into the prompt
+// paste `Mitigative English Reference.md` content
 
 ---
 
@@ -18,13 +18,13 @@ can be thought of akin simultaneous English "purifier" and "optimizer" [good for
 
 Kindly reword ____________ of 100% accordance and 100% consistent "Mitigative English Reference".
 
-// paste your content named ____________
+// paste content named ____________
 
 ---
 
 ## Notes
 
-- This repository and reference are evolving. Edits to canonical guidance should be additive unless authorized otherwise.
-- Use the prompt template above to request rewording or alignment to the mitigative rules.
-- If you need zero-inference forms, request quantifier variants (for example: "one" or "one single").
+- Evolving repository and reference. Editting canonical guidance should be additive unless authorized otherwise.
+- Use prompt template above requesting rewording or align mitigative guides.
+-Need zero-inference forms: request quantifier variants (for example: "one" or "one single").
 
