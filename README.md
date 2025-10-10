@@ -1,2 +1,30 @@
-# Mitigative-English
-Mitigative English 
+# Mitigative English Reference
+
+status: *dataset creation orientated*
+
+𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴 𝗳𝗶𝗹𝗲 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀𝗶𝗻𝗴 [UNFINISHED]
+
+can be thought of akin simultaneous English "purifier" and "optimizer" [good for absorbing educational content]
+
+---
+
+## Example use
+
+// paste `Mitigative English Reference.md` content into the prompt
+
+---
+
+## Prompt template
+
+Kindly reword ____________ of 100% accordance and 100% consistent "Mitigative English Reference".
+
+// paste your content named ____________
+
+---
+
+## Notes
+
+- This repository and reference are evolving. Edits to canonical guidance should be additive unless authorized otherwise.
+- Use the prompt template above to request rewording or alignment to the mitigative rules.
+- If you need zero-inference forms, request quantifier variants (for example: "one" or "one single").
+
