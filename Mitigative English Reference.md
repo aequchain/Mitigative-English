@@ -90,7 +90,7 @@ DONT use words that end in "S" sound. to close or before "IT" sound. (eg: "refer
 and so on.
 DONT use negative language, maximise Positive [The metaphrical glass is ALWAYS half full.]
 DONT use "in", "enter", "connect", etc etc wherever avoidable (have been sexualised [sexualised: bad])
-DONT use words that begin with "ass-" [sexualised: bad])
+DONT use words that begin with "ass-" [sexualised: bad]
 DONT use words that have "f+u" in (close too swear word[swear words: bad])
 Continue this thinking, expansively,
 DONT use militant terminology ("targeting", "targeted" etc beyond the word "target")
