@@ -26,5 +26,5 @@ Kindly reword ____________ of 100% accordance and 100% consistent "Mitigative En
 
 - Evolving repository and reference. Editting canonical guidance should be additive unless authorized otherwise.
 - Use prompt template above requesting rewording or align mitigative guides.
-- Need zero-inference forms: request quantifier variants (for example: "one" or "one single").
+- Need zero-inference forms: request quantifier variants (for example: "one", "pairs", etc).
 
