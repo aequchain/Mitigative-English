@@ -88,11 +88,13 @@ DONT use "but" (close to buttocks)
 DONT use words that end in SH too near words that end in or contain "IT" (too close to "SHIT" [swear words: bad])
 DONT use words that end in "S" sound. to close or before "IT" sound. (eg: "reference it" too close to "ZIT" [zit: bad])
 and so on.
-DONT use negative language, maximise Positive [The glass is always half full, never half empty (unless emptiness were positive of instance)]
+DONT use negative language, maximise Positive [The metaphrical glass is ALWAYS half full.]
 DONT use "in", "enter", "connect", etc etc wherever avoidable (have been sexualised [sexualised: bad])
 DONT use words that begin with "ass-" [sexualised: bad])
 DONT use words that have "f+u" in (close too swear word[swear words: bad])
-Continue this thinking, expansively, **DONT USE and AVOID anything you can deduce that'd probably conflict or compromise the intent of this file.**
+Continue this thinking, expansively,
+DONT use militant terminology ("targeting", "targeted" etc beyond the word "target")
+**DONT USE and AVOID anything you can deduce that'd probably conflict or compromise the intent of this file.**
 
 
 **Expansion and Reduction Framing:** When discussing changes involving both increases and decreases, emphasize expansion (what positive increased) rather than reduction (what negative decreased). Example: "Installation access has increased substantially" (expansion framing - positive emphasis) preferred over "Installation costs have decreased substantially" (reduction framing - focuses on what went down). When both statements serve transparency, lead with expansion, follow with reduction in past tense for factual support.
