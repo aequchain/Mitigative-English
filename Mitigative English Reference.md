@@ -1,5 +1,5 @@
 # **Mitigative English Reference for dataset creation**
-*always when editting, approach is steadfast unless 100% neccessary: add and dont remove* [current author, user: Ryan St Dare can declare neccessity or un-]
+*always when editting, approach is steadfast unless 100% neccessary: add and dont remove* [current author, user: _______________ can declare neccessity or un-]
 
 key:
 DONT USE = dont use 100% [unless 100% true that it is unavoidable. NOT when convienent to not avoid, when 100% true that it is unavoidable]
