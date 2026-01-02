@@ -1839,27 +1839,23 @@ State all meaningful information explicitly. Remove requirement for reader infer
 
 Through analysis of refinement patterns, following precision enhancements emerged:
 
-**Modifications Observed:**
+**Quantifiers:**
 
-"created chip" → "One chip of Columbia researchers creation"
-- Added "One" for quantification specificity
-- Changed "created" to "creation" (noun form)
-- Restructured possessive relationship
+dont use "a"
+use "one"
+dont use "single"
+PREFERENCE: plural conversion where possible
+a light particle is called a photon >
+light particles called photons
 
-"transforming" → "transformed"
-- Changed present participle to past tense
-- Shifted from continuous/descriptive to completed action
-
-"single laser" → "one single laser"
-- Added explicit quantifier "one" before "single"
+"single laser" → "one laser"
 - Reinforced singularity emphasis
+- simple: dont use "single" > use "one"
+- avoid "a"
+- preference plurals:
+- a data researchers project > data researchers projects
 
-"'frequency comb'" → "something called 'frequency comb'"
-- Added explanatory phrase "something called"
-- Signals unfamiliar terminology introduction
-
-"small silicon device" → "one small silicon device"
-- Added quantifier "one" for consistency
+"small silicon device" → "small silicon device"
 
 
 ### Core Philosophy: Explicit Quantification Over Implicit
@@ -1867,9 +1863,22 @@ Through analysis of refinement patterns, following precision enhancements emerge
 When quantity matters, state explicitly even if redundant by traditional standards. Eliminates ambiguity completely.
 
 **Patterns:**
-- "single" alone → "one single"
-- "chip" → "One chip"
-- "device" → "one device"
+- "single" alone → "one"
+we produce a product | we produce the product → we produce products
+
+OF:
+the freckles on your nose highlight your eyes → freckles of your nose highlight your eyes
+swan was in form →
+swan was of form
+people from Norway
+people of Norway
+GUIDE:
+kindly use 'of' over "from" | "in" | "on"
+seeking always use of "of" first | validate:
+is sentence coherent? if even close of YES then: use "of"
+
+
+
 
 
 ### Terminology Introduction Protocol
@@ -2137,3 +2146,51 @@ Before finalizing content:
 **Rationale:** Letter-level parsing can reveal unintended patterns even in technically correct words. Expanding DONT USE/avoidance vocabulary ensures clean training data. Single-mention awareness enables complete forward DONT USE/avoidance while maintaining clarity and precision in all communication.
 
 **END OF DOCUMENT**
+
+---
+
+**PRIMARY REQUEST:**
+
+above is Original Mitagative English Reference file
+
+i kind of dont care of traditional english | it has components I think can be mitagated | enhanced
+
+additions:
+impact > preference: effect
+improve > preference: enhance
+aspect [ ass + peck | ass + pectorial ] > preference component or alternative
+
+when working with AI | LLM there is no real need of traditional english | they learn very quickly understanding my manner of communication | i appreciate that
+
+file was originally used of dataset generation
+
+kindly extract Mitagative English Reference | removing anything of additional Training Instructions
+
+there is within the reference i believe mention of articles | not using "a" | "the"
+unless neccessary rather using 1) one or less prefernence: single
+
+EG
+also wording | structuring of sentences:
+when working on the project or when working on a project > work['ing'] of projects
+
+intend:
+1: coherence | understandibility without diversifying away of Mitagative English
+with zero fear of learning curve
+2: OPTIMIZE | sentences tend toward shorter | refined | i prefer that
+
+then:
+study Mitagative English Reference
+meticulous | comprehensive | exstensive | expansive | exhaustive | accurate | detailed | precise | of depth
+identify pupose of file? what is being mitagated? what is thinking governing Mitagative English? how can it be enhanced? once you think you have the exact thinking that 'governs' Mitagative English Framework
+
+kindly evaluate all angles | test coherence | ensure we have created best Mitagative English Reference we can
+
+then:
+through rigorous iterative refinement
+of application of very top tier BEST self-iterative refinement protocols | frameworks 
+iterate | refine until you deem you cannot enhance it any further
+
+then:
+generate enhanced
+Mitagative English Framework
+
